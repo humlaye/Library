@@ -43,7 +43,7 @@ void setup() {
   pinMode(GirisechoPin,INPUT);
   pinMode(CikistrigPin, OUTPUT);
   pinMode(CikisecgoPin,INPUT);
- 
+
   // connect to wifi.
   WiFi.begin(WIFI_SSID, WIFI_PASSWORD);
   Serial.print("connecting");
