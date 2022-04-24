@@ -1,0 +1,10 @@
+/*
+KULLANILAN KÜTÜPHANELER::::::::::
+
+LiquidCrystal_I2C-1.1.2        https://www.arduinolibraries.info/libraries/liquid-crystal-i2-c
+  
+firebase-arduino-master        https://github.com/FirebaseExtended/firebase-arduino 
+
+ArduinoJson-5.13.1 
+
+
